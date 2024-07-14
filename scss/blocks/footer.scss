@@ -57,6 +57,7 @@
   }
 
   .footer__link {
+    transition: color 200ms ease;
     &:hover {
       color: var(--text-black);
     }

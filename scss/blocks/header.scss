@@ -4,7 +4,7 @@
   position: absolute;
   top: 20px;
 
-  @media screen and (max-width: 1023px) {
+  @media screen and (max-width: 1279px) {
     height: 24px;
   }
 }
@@ -28,7 +28,7 @@
 .header__navigation {
   margin-left: auto;
   margin-right: 40px;
-  @media screen and (max-width: 1023px) {
+  @media screen and (max-width: 1279px) {
     display: none;
   }
 }
@@ -63,7 +63,7 @@
   color: #fff;
   transition: background-color 200ms ease, color 200ms ease;
 
-  @media screen and (max-width: 1023px) {
+  @media screen and (max-width: 1279px) {
     display: none;
   }
 
@@ -86,7 +86,7 @@
   top: 7px;
   right: 10px;
 
-  @media screen and (max-width: 1023px) {
+  @media screen and (max-width: 1279px) {
     display: flex;
   }
 
